@@ -3,14 +3,20 @@
 <!--
 **LeoMontagut/LeoMontagut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Leo Montagut"
+        self.role = "Software Engineer"
+        self.language_spoken = ["es_ES", "en_US"]
+
+    def say_hi(self):
+        print("Hello there! oh, you're just looking? Okay, if you need anything let me know.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
