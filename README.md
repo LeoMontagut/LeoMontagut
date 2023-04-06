@@ -16,8 +16,8 @@ class SoftwareEngineer:
             'frontend': ['HTML', 'CSS', 'JavaScript','Boostrap'],
             'backend': ['Python'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'AWS', 'Heroku'],
-            'tools': ['Git', 'GitHub', 'Pandas', 'NumPy', 'Django', 'Flask'],
+            'devops': ['Docker', 'AWS', 'Heroku', 'Railway'],
+            'tools': ['Git', 'APIs', 'Pandas', 'Django', 'Flask'],
             'misc': ['GNU/Linux']
         }
 
