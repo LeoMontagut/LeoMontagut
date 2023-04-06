@@ -17,7 +17,7 @@ class SoftwareEngineer:
             'backend': ['Python'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
             'devops': ['Docker', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'Pandas', 'NumPy', 'Jupyter notebook', 'SQLAlchemy'],
+            'tools': ['Git', 'GitHub', 'Pandas', 'NumPy', 'Django', 'Flask'],
             'misc': ['GNU/Linux']
         }
 
