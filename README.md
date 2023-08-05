@@ -6,7 +6,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class SoftwareEngineer():
 
     def __init__(self):
         self.name = "Leo Montagut"
